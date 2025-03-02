@@ -1,4 +1,4 @@
 # SomeName
 A repository to keep COT2000 labs code
 git config --global user.name "YourName"
-git config --global user.email youremail@example.com
+git config --global user.email garytca02@gmail.com
